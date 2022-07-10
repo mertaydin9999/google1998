@@ -1,0 +1,44 @@
+.container{
+    text-align: center;
+    width: 1081px;
+    height: 281px;
+    margin: 0 auto;
+}
+p{
+    margin-bottom: 0;
+}
+.searching{
+    background-color: #EEEEEE;
+}
+#searchbar1{
+    width: 20%;
+}
+.stuff{
+    background-color: rgb(126, 229, 218);
+    max-height: 76px;
+    width: 100%;
+
+    
+    
+}
+.p-2{
+    background-color: rgb(126, 229, 218);
+    padding: 2px 2px;
+    max-width: 30%;
+    text-align: center;
+    min-height: 80px;
+    margin: 3px 2.7px;
+    float: left;
+    padding: 0 11%;
+}
+.second-box{
+
+    background-color: #70CCC2;
+} 
+
+.third-box{
+
+    background-color: #62B3AA;
+} 
+
+
